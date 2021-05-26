@@ -1,0 +1,45 @@
+[ 
+    {
+        "nev" : "Somlói Galuska",
+        "elkeszitesiIdo" : "60 perc",
+        "leiras" : "Így készül a Somlói Galuska",
+        "kep" : "kepek/somloi.jpg",
+        "hozzavalok" : [
+
+            {"csoki" : "1 tábla"},
+            {"tojas" : "6 db"},
+            {"liszt" : "1 kg"}
+        ]
+    },
+
+
+
+    {
+        "nev" : "Pörkölt",
+        "elkeszitesiIdo" : "30 perc",
+        "leiras" : "Így készül a Pöri",
+        "kep" : "kepek/porkolt.jpg",
+        "hozzavalok" : [
+
+            {"hus" : "1 kg"},
+            {"hagyma" : "2 db"},
+            {"paradicsom" : "2 db"},
+            {"paprika" : "20 dkg"}
+        ]
+    },
+
+
+
+    {
+        "nev" : "Articsóka Leves",
+        "elkeszitesiIdo" : "120 perc",
+        "leiras" : "Így készül az Articsóka Leves",
+        "kep" : "kepek/articsokaleves.jpg",
+        "hozzavalok" : [
+
+            {"viz" : "3 liter"},
+            {"articsoka" : "1 kg"},
+            {"liszt" : "1 dkg"}
+        ]
+    } 
+]
